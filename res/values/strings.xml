@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">K!ompass</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="map">Map (Image)</string>
+    <string name="getD">Get Directions</string>
+    <string name="prompt">Choose a Place</string>
+
+    <string-array name="places">
+        <item>Anna Univ Main Gate</item>
+        <item>Red Building SBI</item>
+        <item>Examination Center</item>
+        <item>Canteen</item>
+        <item>Vivekanda Auditorium</item>
+        <item>Alumini Center</item>
+        <item>MBA Audi</item>
+        <item>Health Center</item>
+    </string-array>
+
+    <string name="title_activity_map">K!ompass</string>
+    <string name="title_activity_image">K!ompass</string>
+    <string name="title_activity_disp">K!ompass</string>
+
+</resources>
